@@ -1,0 +1,2 @@
+INDEX VERSION 1.130+/home/abx99/development/java/.metadata/.plugins/org.eclipse.jdt.core
+22503740.index
